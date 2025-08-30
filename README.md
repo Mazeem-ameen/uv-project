@@ -1,1 +1,2 @@
-# uv-project
+#description
+This is a packaged app.
