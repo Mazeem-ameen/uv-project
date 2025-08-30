@@ -1,2 +1,1 @@
-#description
-This is a packaged app.
+package project
